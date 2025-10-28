@@ -3,7 +3,7 @@
 
 ---
 
-Sou uma estudante de **Engenharia de Software**, tenho 21 anos e estou sempre em busca de aprender e evoluir na área da tecnologia. 💻  
+Sou uma estudante de **Engenharia de Software**, tenho 21 anos e estou sempre em busca de aprender e evoluir na área da tecnologia. 
 Atualmente, estou estagiando na **Prefeitura de Miguel Pereira**, onde venho me desenvolvendo tanto tecnicamente quanto pessoalmente — e me sinto muito feliz com a minha evolução até aqui. 
 
 Tenho grande interesse em **desenvolvimento web** e estou estudando tecnologias como **HTML**, **CSS**, **Python**, **JavaScript** e **React**.  
